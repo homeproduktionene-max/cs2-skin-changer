@@ -34,6 +34,29 @@ Aplica skins customizadas em armas do CS2 **sem modificar o jogo**. Funciona via
 
 ---
 
+## 🚀 Como Compilar e Usar
+
+### Pré-requisitos
+- Visual Studio 2022 (ou superior) com suporte a C++17
+- Windows 10/11
+- CS2 instalado e rodando
+
+### Passos para Compilar
+1. Abra o arquivo `ext-cs2-skin-changer.sln` no Visual Studio.
+2. Selecione a configuração `Release` e plataforma `x64`.
+3. Clique em "Build" > "Build Solution".
+4. O executável será gerado em `x64/Release/ext-cs2-skin-changer.exe`.
+
+### Como Usar
+1. Execute o CS2.
+2. Execute o `ext-cs2-skin-changer.exe` como administrador.
+3. Selecione uma skin no menu e aplique.
+4. Certifique-se de que o CS2 está em uma partida para ver as mudanças.
+
+**Nota:** Este projeto é para fins educacionais. Use por sua conta e risco.
+
+---
+
 ## 🏗️ Arquitetura do Projeto
 
 ### Estrutura de Arquivos
