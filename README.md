@@ -24,6 +24,8 @@ Applies custom skins to CS2 weapons **without modifying the game**. Works via:
 - ✅ Memory caching (optimization)
 - ✅ Graphical interface (ImGui)
 
+![Description](img/readme-screenshot.png)
+
 ### Removed Features ❌
 - ❌ Knives (custom models)
 - ❌ Gloves
@@ -80,7 +82,7 @@ For detailed technical explanations, see the code comments.
 
 ## Contributing
 
-If you implement knife or glove features, please tag me (@yourusername) so I can review. Contributions are welcome for educational improvements.
+If you implement knife or glove features, please tag me (@Henrih56) so I can review. Contributions are welcome for educational improvements.
 
 ## License
 
